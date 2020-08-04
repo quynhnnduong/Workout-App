@@ -1,0 +1,12 @@
+{
+  "name": "WorkoutApp",
+  "displayName": "WorkoutApp",
+  "expo": {
+    "name": "WorkoutApp",
+    "slug": "WorkoutApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
